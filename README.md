@@ -12,3 +12,5 @@ Regions where sales were made
 Products being sold
 
 Salespeople who made the sales
+
+The dataset used in this project is a structured retail sales dataset. It contains information about sales made over different months and quarters, across various regions. Each entry includes details such as the month of the sale, the quarter it falls in, the region where the sale happened (like North, South, East, or West), the name of the product sold, the total sales amount, and the salesperson responsible for that sale. This type of data is similar to what businesses use to track their performance over time and across different teams and locations. It provides a solid foundation for analyzing trends, comparing performance, and drawing insights that are useful for decision-making.
