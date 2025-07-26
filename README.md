@@ -1,16 +1,21 @@
-# Sales-Performance
-This project explores sales data to understand how a business is performing — when sales are high or low, which regions or products are doing well, and who the top-performing salespeople are.
+This project focuses on performing Exploratory Data Analysis (EDA) on a sales dataset. The goal is to derive meaningful insights related to sales, profit, regional performance, product contribution, and sales trends over time. These insights can help businesses make informed, data-driven decisions.
 
-We used Python and Jupyter Notebook to clean the data, analyze it, and create simple charts that anyone can understand.
+**what is our Objectives**
+Clean and preprocess the dataset by handling missing values and duplicates.
 
-We worked with a retail sales dataset that includes:
+Perform in-depth exploratory data analysis (EDA) to uncover patterns and trends.
 
-Monthly and Quarterly Sales
+Visualize key metrics like total sales, regional contribution, product performance, and time-based trends.
 
-Regions where sales were made
+Present business-critical insights through easy-to-understand charts and heatmaps.
 
-Products being sold
+**About the Dataset**
+The dataset used in this project gives a complete view of retail sales. It includes:
 
-Salespeople who made the sales
+Order Details: Information about when and where each order was placed. It has columns for Month, Quarter, and Region, which help track sales over time and across locations.
 
-The dataset used in this project is a structured retail sales dataset. It contains information about sales made over different months and quarters, across various regions. Each entry includes details such as the month of the sale, the quarter it falls in, the region where the sale happened (like North, South, East, or West), the name of the product sold, the total sales amount, and the salesperson responsible for that sale. This type of data is similar to what businesses use to track their performance over time and across different teams and locations. It provides a solid foundation for analyzing trends, comparing performance, and drawing insights that are useful for decision-making.
+Sales Metrics: This contains the sales numbers, showing how much revenue was generated. It helps us identify trends, peaks, and low-performing periods.
+
+Team Performance: Data on individual salespeople, allowing us to see how each team member performed and contributed to the overall sales.
+
+Product Information: Details of the products sold, including product names and categories. This helps in analyzing which product types sell more and bring in more revenue.
