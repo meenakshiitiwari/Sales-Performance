@@ -47,6 +47,7 @@ Analyzed individual salesperson performance to identify key contributors.
 Explored quarterly sales trends and broke down product-level contributions to revenue.
 
 **Key Insights**
+
 Through the analysis, several useful findings were discovered:
 
 Certain regions and months consistently outperformed others in terms of sales.
@@ -56,3 +57,14 @@ Quarterly trends revealed seasonality, indicating when sales typically increase 
 Top-performing salespeople were identified, giving insights into team strengths.
 
 Some product categories and items contributed significantly more to overall revenue, helping focus on high-performing products
+
+**Result:**
+The project provides a clear and visual breakdown of sales performance. Key highlights include:
+
+Sales trends and patterns shown through bar charts and heatmaps.
+
+Region-wise performance visualized to quickly compare different areas.
+
+Product-level and salesperson comparisons presented using intuitive, easy-to-read plots.
+
+Important KPIs and business insights revealed through visual storytelling.
